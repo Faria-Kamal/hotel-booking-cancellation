@@ -5,7 +5,7 @@
 A coursework project asking a practical question: **can booking details available at reservation time help a hotel anticipate cancellations?** It compares four classifiers with a majority-class baseline, then uses K-Means to look for groups of similar bookings. Limits are reported as carefully as the scores.
 
 Portfolio case study: <https://Faria-Kamal.github.io/hotel-booking-cancellation.html>  
-GitHub: <https://github.com/Faria-Kamal> · LinkedIn: <https://linkedin.com/in/s0ha>
+
 
 ---
 
