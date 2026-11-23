@@ -24,6 +24,7 @@ All files are at the repository root:
 | `confusion_matrix.png` | Final test confusion matrix. |
 | `correlation.png` | Correlation heatmap used during exploration. |
 | `Outlines-2026.ppt` | Presentation outline used for the module submission. |
+| `FariaKamal_26172108.pdf` | Project report submitted for the module. |
 | `requirements.txt` | Python dependencies for running the notebook locally. |
 
 The notebook looks for `hotel_bookings.csv` in the notebook folder or in `data/`, and asks for an upload when run in Google Colab.
